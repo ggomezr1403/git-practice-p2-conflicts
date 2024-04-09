@@ -1,5 +1,7 @@
-Geraldine Gomez Romero
+Datos personales:
+- Geraldine Gomez Romero
 - Bogotá, Colombia
 - 20 años, 14 de marzo del 2004
 - Estudiante de Ingenieria de software
 - Tecnologias utilizadas: Java, Spring Boot, JavaScript, Angular, React
+- Color favorito: Morado
